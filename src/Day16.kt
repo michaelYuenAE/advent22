@@ -141,7 +141,7 @@ class Day16(val lines: List<String>) {
 }
 
 fun main() {
-    val input = readInput("day16b_input")
+    val input = readInput("day16_input")
     println(Day16(input).partTwo())
 
 }
